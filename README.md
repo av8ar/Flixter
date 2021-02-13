@@ -21,7 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src= "https://i.imgur.com/Bc5puKh.gif" width=250><br>
+<img src= "https://i.imgur.com/V54TiFN.gif" width=250><br>
 
 ### Notes
 It was somewhat challenging trying follow the steps of setting up the tableView and MovieCell.
