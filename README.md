@@ -17,7 +17,7 @@
 <img src="http://g.recordit.co/qWzRI0eKoM.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app. 
+It was difficult to understand the technical details of setting up the collectionView (i.e. collectionView.delegate = self).  
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
